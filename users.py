@@ -1,0 +1,32 @@
+users = [
+    {
+        "id":"1",
+        "name":"mehrdad",
+        "lastname":"khojastefar",
+        "job":"student"
+    },
+    {
+        "id":"2",
+        "name":"susan",
+        "lastname":"kabiri",
+        "job":"teacher"
+    },
+    {
+        "id":"3",
+        "name":"sara",
+        "lastname":"kabiri",
+        "job":"teacher"
+    },
+    {
+        "id":"4",
+        "name":"akbar",
+        "lastname":"moghimi",
+        "job":"mechanic"
+    },
+    {
+        "id":"5",
+        "name":"asghar",
+        "lastname":"abbasfar",
+        "job":"tech-influencer"
+    },
+]
