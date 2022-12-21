@@ -40,7 +40,7 @@ def get_user(id):
             jsonify({"result": "fail", "trace": "not found a user with id " + id}),
             404,
         )
-        # creates a new user
+    # creates a new user
     elif request.method == "POST":
         for user in users:
             if user["id"] == id:
